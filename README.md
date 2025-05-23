@@ -28,6 +28,9 @@ This project explores customer behavior, regional sales performance, and channel
 Click to download the full Power BI project bundle:
 [Download the files](./VogueNaija_PowerBI.zip)
 
+[![Read on Medium](https://cdn-icons-png.flaticon.com/512/5968/5968906.png)](https://medium.com/@eluyeraonome/from-raw-data-to-retail-strategy-a-power-bi-case-study-on-voguenaija-84f153837019)
+
+
 
 ## 🪄 Created by
 **Funmilayo Eluyera**  
