@@ -34,3 +34,7 @@ Click to download the full Power BI project bundle:
 *Data Analyst & Educator*  
 Follow #LearningWithFunmi on LinkedIn
 
+<p align="center">
+  <img src="./LearningWithFunmi.png" width="300"/>
+</p>
+
