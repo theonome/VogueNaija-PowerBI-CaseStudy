@@ -23,9 +23,12 @@ This project explores customer behavior, regional sales performance, and channel
 - 91 Units per Customer Avg.
 - West Nigeria: Top-performing Region
 
-## 📁 Files Included
-- `Dashboard.pbix`
-- `Dataset.xlsx`
+## 📥 Download the Project
+
+Click to download the full Power BI project bundle:
+[Download the PBIX File](./VogueNaija.pbix)
+[Download the Dataset](./VogueNaija_Retail_Analytics_Dataset)
+
 
 ## 🪄 Created by
 **Funmilayo Eluyera**  
