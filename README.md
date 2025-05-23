@@ -26,8 +26,7 @@ This project explores customer behavior, regional sales performance, and channel
 ## 📥 Download the Project
 
 Click to download the full Power BI project bundle:
-[Download the PBIX File](./VogueNaija.pbix)
-[Download the Dataset](./VogueNaija_Retail_Analytics_Dataset)
+[Download the files](./VogueNaija_PowerBI)
 
 
 ## 🪄 Created by
